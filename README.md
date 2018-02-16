@@ -1,6 +1,9 @@
 # Hackinators-Farming-Dapp
 This is the code for Farming Dapp Application which stores credential on Blockchain and then retrieve it from the client side. This application is coded using **Truffle framework** and **solidity** and require to run a private blockchain which is **ganache-cli**. The interections to the blockchain is possible by **web3** javascript library.
 
+## What problem we are solving
+An Agricultural Supply Chain tracks a farm product from the farmer to the consumer.
+
 ## Requirements
 1. Truffle framework version 2.0
 2. Ganache-cli
